@@ -1,0 +1,28 @@
+body{background-color:#6FEDD6; }
+hr{border-width: thick; border-color:green;border:dotted; box-sizing: border-box; border-top: none;width:30%;}
+
+
+img{margin: 100px 45% 0% 45%;
+  width:150px;
+height: 150px;
+border-radius:50%;
+
+}
+h1
+{
+  text-align: center;border-top: 0PX;}
+p{text-align: center;}
+.little-intro{text-align:left;}
+.heading{margin-top: 0;margin-bottom: 0; background-color:#A5F1E9; display: inline;height:150px;}
+.follow{ color:#F07DEA; padding:50px 0px 0px 750px; display: inline; margin-bottom: 30px;}
+
+.intro{
+  width:auto;}
+.text-deco:hover{text-decoration: none;text-transform:uppercase;color:red;}
+h1{color:#16213E;
+line-height: 3rem;
+font-family: cursive; border-top:0;}
+.fa-brands:hover{color:red;}
+.fb{padding-left:70%;font-size:30px;}
+.tw{ padding-left: 15px;font-size:30px;}
+.insta{padding-left: 15px;font-size:30px;}
